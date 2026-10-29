@@ -20,6 +20,8 @@ Download the windows package and drop it into your Homeworld Cataclysm or Emerge
 * Antialiasing, filtering, fullscreen and windowed modes
 * Fully uncapped framerate with v-sync targeting the native refresh of the users' display
 * Modernised and optimised renderer
+* OpenAL for sound/music
+* Full bink video playback support
 
 I am just finishing a few little touches and it will be released.
 
