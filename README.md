@@ -22,6 +22,7 @@ Download the windows package and drop it into your Homeworld Cataclysm or Emerge
 * Modernised and optimised renderer
 * OpenAL for sound/music
 * Full bink video playback support
+* All 32bit assembler rewritten to perfect C representations (as what I did for the Garden of Kadesh port as well)
 
 I am just finishing a few little touches and it will be released.
 
