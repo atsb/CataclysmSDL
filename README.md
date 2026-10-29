@@ -17,6 +17,9 @@ Download the windows package and drop it into your Homeworld Cataclysm or Emerge
 * Bloom, Soft Particles, Dynamic Lighting, Colour Saturation, Deeper blacks, increased ship and object LOD and view distance
 * SDL3 OpenGL Rendering (with Vulkan and Metal renderers planned)
 * Skirmish and Single Player fully playable
+* Antialiasing, filtering, fullscreen and windowed modes
+* Fully uncapped framerate with v-sync targeting the native refresh of the users' display
+* Modernised and optimised renderer
 
 I am just finishing a few little touches and it will be released.
 
