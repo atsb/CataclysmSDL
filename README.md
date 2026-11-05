@@ -34,4 +34,4 @@ Why?  Because in this day and age, folks don't want to 'contribute' to projects,
 
 ## When?
 
-It'll drop soon.
+Check the releases page and slay the BEAST!
