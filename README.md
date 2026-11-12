@@ -29,8 +29,12 @@ The port has EXTENSIVE debugging files that will be created upon gameplay, this 
 ## Source code
 
 Source code will NOT be provided (and never will be).  So don't ask.
-Why?  Because in this day and age, folks don't want to 'contribute' to projects, they want to throw things to an LLM and call it a day.  I refuse to release the code for that reason, so nobody can take it, chuck it to an LLM to do something else and split the community again (as what has happened with the pointless Homeworld RTX hack) where they took a lot of what Gardens of Kadesh did.  I refuse to allow that, to happen to Cataclysm.
+Why?  Because in this day and age, folks don't want to 'contribute' to projects, they want to throw things to an LLM and call it a day.  I refuse to allow that, to happen to Cataclysm.
 
+## Legal
+
+Cataclysm was never open source, and is still a proprietary closed-source application that is owned by Gearbox/2k.  This binary is provided for enjoyment on modern systems.
+If anyone from Gearbox/2k wants the source code, please raise an issue and we can go from there on more official channels.
 
 ## When?
 
